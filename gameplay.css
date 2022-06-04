@@ -1,0 +1,113 @@
+
+body{
+    background-color: darkblue;
+}
+h1{
+    
+    font-size: 90px;
+    text-align: center;
+    }
+    
+   h3{
+    font-size: 10px;
+     }
+    
+  p {
+      
+      font-family: verdana;
+      font-size: 20px;
+  
+    }
+  p::first-letter{
+      font-size: 30px;
+  
+    }
+  
+  #titulo{
+     text-align: center;
+   } 
+
+
+#menuNavegacao {
+    list-style-type: style type;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+    color: white;
+  }
+
+  
+.opcoes {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+
+a:hover {
+    background-color:red;
+  }
+
+ a:active{
+    color: yellow
+ }
+   /* Change the link color to #111 (black) on hover */
+
+
+
+
+
+.principal{
+
+    background: #cccccc;
+    padding-left: 30px;
+}
+
+.titulo-principal{
+    padding: 5%;
+
+}
+
+.tiposJogos{
+  background-color: dodgerblue;
+}
+
+#game{
+
+    width: 100%;
+}
+
+
+.homemaranha{
+
+    width: 10%;
+}
+.goodWar{
+
+    width: 20%;
+    
+}
+.minecraft{
+
+   width: 10%;
+  
+}
+.sackboy{
+    width: 10%;
+}
+
+.ratchet{
+
+    width: 10%;
+   
+}
+
+footer{
+  background-color: blue;
+  color: #cccccc;
+}
